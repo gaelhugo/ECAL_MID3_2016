@@ -1,0 +1,25 @@
+<TextureAtlas imagePath="medusa.png" width="1024" height="1024">
+    <sprite n="medusa_0000_Calque-23.png" x="2" y="2" w="170" h="155" pX="0.5" pY="0.5" oX="40" oY="55" oW="250" oH="250"/>
+    <sprite n="medusa_0001_Calque-22.png" x="174" y="2" w="170" h="155" pX="0.5" pY="0.5" oX="40" oY="55" oW="250" oH="250"/>
+    <sprite n="medusa_0002_Calque-21.png" x="346" y="2" w="170" h="155" pX="0.5" pY="0.5" oX="40" oY="54" oW="250" oH="250"/>
+    <sprite n="medusa_0003_Calque-20.png" x="518" y="2" w="170" h="155" pX="0.5" pY="0.5" oX="40" oY="54" oW="250" oH="250"/>
+    <sprite n="medusa_0004_Calque-19.png" x="690" y="2" w="170" h="155" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0005_Calque-18.png" x="2" y="159" w="170" h="155" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0006_Calque-17.png" x="2" y="316" w="170" h="154" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0007_Calque-16.png" x="2" y="784" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0008_Calque-15.png" x="174" y="159" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0009_Calque-14.png" x="346" y="159" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0010_Calque-13.png" x="174" y="779" w="170" h="152" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0011_Calque-12.png" x="518" y="159" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="53" oW="250" oH="250"/>
+    <sprite n="medusa_0012_Calque-11.png" x="346" y="314" w="170" h="152" pX="0.5" pY="0.5" oX="40" oY="54" oW="250" oH="250"/>
+    <sprite n="medusa_0013_Calque-10.png" x="518" y="314" w="170" h="152" pX="0.5" pY="0.5" oX="40" oY="54" oW="250" oH="250"/>
+    <sprite n="medusa_0014_Calque-9.png" x="690" y="314" w="170" h="152" pX="0.5" pY="0.5" oX="40" oY="55" oW="250" oH="250"/>
+    <sprite n="medusa_0015_Calque-8.png" x="346" y="468" w="170" h="152" pX="0.5" pY="0.5" oX="40" oY="55" oW="250" oH="250"/>
+    <sprite n="medusa_0016_Calque-7.png" x="346" y="622" w="170" h="152" pX="0.5" pY="0.5" oX="40" oY="56" oW="250" oH="250"/>
+    <sprite n="medusa_0017_Calque-6.png" x="690" y="159" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="56" oW="250" oH="250"/>
+    <sprite n="medusa_0018_Calque-5.png" x="174" y="314" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="56" oW="250" oH="250"/>
+    <sprite n="medusa_0019_Calque-4.png" x="174" y="469" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="57" oW="250" oH="250"/>
+    <sprite n="medusa_0020_Calque-3.png" x="174" y="624" w="170" h="153" pX="0.5" pY="0.5" oX="40" oY="57" oW="250" oH="250"/>
+    <sprite n="medusa_0021_Calque-2.png" x="2" y="472" w="170" h="154" pX="0.5" pY="0.5" oX="40" oY="56" oW="250" oH="250"/>
+    <sprite n="medusa_0022_Calque-1.png" x="2" y="628" w="170" h="154" pX="0.5" pY="0.5" oX="40" oY="56" oW="250" oH="250"/>
+</TextureAtlas>
